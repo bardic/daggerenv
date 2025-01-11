@@ -1,0 +1,6 @@
+{
+  "name": "dagger_env",
+  "engineVersion": "v0.15.1",
+  "sdk": "go",
+  "source": ".dagger"
+}
